@@ -86,7 +86,6 @@ plt.show()
 ```
 
 <H3>Output :</H3>
-![c1](https://github.com/Vishwarathinam/Ex-5--AAI/assets/95266350/9e7f83b7-45cd-4c01-aacc-c6cbd8d31583)
 
 
 <H3>Results :</H3>
