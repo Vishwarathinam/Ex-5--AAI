@@ -1,7 +1,7 @@
 <H3>ENTER YOUR NAME : Vishwa Rathinam. S</H3>
 <H3>ENTER YOUR REGISTER NO : 212221240063 </H3>
 <H3>EX. NO.5</H3>
-<H3>DATE:</H3>
+<H3>DATE:29.03.24</H3>
 <H1 ALIGN =CENTER> Implementation of Kalman Filter...</H1>
 <H3>Aim :</H3>
 
@@ -87,6 +87,7 @@ plt.show()
 
 <H3>Output :</H3>
 
+![img1](https://github.com/anto-richard/Ex-5--AAI/assets/93427534/492a97c8-fc26-4981-99e2-c480073164a9)
 
 <H3>Results :</H3>
 
